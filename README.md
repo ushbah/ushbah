@@ -1,7 +1,5 @@
-## Hi there 👋
 
-# 💫 About Me:
-I'm currently working as an AI Engineer at a software company in Pakistan<br>I'm looking for collaboration on Machine Learning and applications<br>I'm looking for help with fine-tuning my coding skills<br>I'm currently learning MLOPs<br>You can ask me about AI/ML/Data Science<br>A fun fact about me would be that I'm an Aerospace engineer who has never been on a flight. Crazy right?
+Hi there, I'm AI Engineer working at a software company in Pakistan<br>I'm looking for collaboration on Machine Learning and applications<br>I'm looking for help with fine-tuning my coding skills<br>I'm currently learning MLOPs<br>You can ask me about AI/ML/Data Science<br>A fun fact about me would be that I'm an Aerospace engineer who has never been on a flight. Crazy right?
 
 
 ## 🌐 Socials:
